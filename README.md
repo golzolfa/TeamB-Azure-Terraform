@@ -1,0 +1,1 @@
+THis is project for teamB .We are working on migrating a three-tier application from an on-premises environment to Azure. The goal is to ensure scalability, high availability, performance, and security while maintaining cost efficiency and ease of maintenance.
